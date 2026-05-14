@@ -37,4 +37,15 @@ public:
         return value;
     }
 
+    void pop()
+    {
+
+    }
+
+    bool isEmpty()
+    {
+        return top == NULL;
+    }
+
+
 };
