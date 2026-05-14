@@ -92,6 +92,12 @@ int main()
         cout << "Enter your choice: ";
         cin >> choice;
 
+        switch(choice)
+        {
+
+        }
+
+        cout << endl;
     }
 
     return 0;
