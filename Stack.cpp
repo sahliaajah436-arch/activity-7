@@ -50,6 +50,7 @@ public:
         cout << "Popped value: " << top->data << endl;
     }
 
+    
     bool isEmpty()
     {
         return top == NULL;
